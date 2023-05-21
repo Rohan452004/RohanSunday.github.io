@@ -22,13 +22,13 @@ nav {
     background-color: rgba(0, 0, 0, 0.836);
     padding: 10px;
     border-radius: 20px;
+    font-size: x-large;
     word-spacing: 220px;
     } 
 
     a:hover {
         background-color: grey; 
     }
-    
     
 nav ul {
     margin: 0;
