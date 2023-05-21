@@ -22,6 +22,12 @@ nav {
     background-color: rgba(0, 0, 0, 0.836);
     padding: 10px;
     border-radius: 20px;
+    word-spacing: 220px;
+    } 
+
+    a:hover {
+        background-color: grey; 
+    }
     }
     
 nav ul {
